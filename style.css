@@ -118,6 +118,30 @@ body{
     font-weight: bold;
     font-size: 36px;
     text-align: center;
-    margin: 40px 0 40px 0;
+    /*margin: 40px 0 40px 0;*/
+}
+.testimonial{
+    text-align: center;
+    margin: 100px 0 50px 0;
+    font-weight: 900;
+    font-size: 36px;
+}
+.kichu-lekha p{
+    padding: 25px;
+    text-align: left;
+    color:black;
+}
+
+.last-part{
+    height: 369px;
+    background: #282531;
+}
+.first-one{
+    width: 364px;
+    height: 60px;
+}
+.first-one {
+ margin: 48px 956px 261px 43px;
+ color: white;
 }
 
